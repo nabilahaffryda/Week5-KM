@@ -1,0 +1,6 @@
+- W,A,S,D to move around
+- Left Shit to Sprint
+- Left Control to Crouch
+- Space to jump
+- Left Click to Attack
+- Right Click to Guard
